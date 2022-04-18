@@ -45,7 +45,6 @@
 		70452B2C280DCF8C0038591B = {
 			isa = PBXGroup;
 			children = (
-				70452B4E280DDE7A0038591B /* Verdict.swift */,
 				70452B37280DCF8C0038591B /* Adei */,
 				70452B36280DCF8C0038591B /* Products */,
 			);
@@ -70,6 +69,7 @@
 				70452B48280DDA3F0038591B /* QA2.swift */,
 				70452B4A280DDB1B0038591B /* QA3.swift */,
 				70452B4C280DDB8A0038591B /* QA4.swift */,
+				70452B4E280DDE7A0038591B /* Verdict.swift */,
 			);
 			path = Adei;
 			sourceTree = "<group>";
